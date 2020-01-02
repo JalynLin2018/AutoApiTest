@@ -5,4 +5,8 @@ package com.course.testng.multiThread;
  * @Date: 2020/1/2 15:08
  */
 public class MultiThreadOnXml {
+
+    public void test1(){
+
+    }
 }
