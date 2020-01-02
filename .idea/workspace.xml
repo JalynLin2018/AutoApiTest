@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66e1d266-6796-4099-a647-15644402e6b3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Chapter/Chapter5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/BasicAnnotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/TimeOutTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multiThread/MultiThreadOnAnnotion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multiThread/MultiThreadOnXml.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/DataProviderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/paramter/ParameterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/resources/Paramter.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="66e1d266-6796-4099-a647-15644402e6b3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/Chapter5/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
-              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -51,6 +41,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -406,11 +401,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/workspace/muke/AutoApiTest/Chapter/src/main/resources/Paramter.xml" />
         <item itemvalue="TestNG.TimeOutTest.testFailed" />
         <item itemvalue="TestNG.TimeOutTest.testSucess" />
         <item itemvalue="TestNG.MultiThreadOnAnnotion.test" />
         <item itemvalue="TestNG.DataProviderTest.testDataProvider" />
+        <item itemvalue="TestNG.D:/workspace/muke/AutoApiTest/Chapter/src/main/resources/Paramter.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +420,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577762282422</updated>
       <workItem from="1577762286904" duration="14120000" />
-      <workItem from="1577950970669" duration="484000" />
+      <workItem from="1577950970669" duration="913000" />
     </task>
     <servers />
   </component>
@@ -462,7 +457,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14604000" />
+    <option name="totallyTimeSpent" value="15033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1135" extended-state="6" />
@@ -530,7 +525,7 @@
     <entry file="file://$PROJECT_DIR$/Chapter5/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
       </provider>
     </entry>
